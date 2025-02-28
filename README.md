@@ -5,7 +5,6 @@ A fun tool for **meme coin creators** to generate **engaging token names, symbol
 
 ### 🌟 Features  
 ✅ **Random Character Generator** – Get a unique mascot for your meme coin!  
-✅ **Instant Image Download** – Save your mascot with one click.  
 ✅ **Supports Multiple Animals** – Cats and dogs!  
 
 ### 🔗 Live Demo  
